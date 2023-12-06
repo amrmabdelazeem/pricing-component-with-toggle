@@ -31,6 +31,14 @@ Users should be able to:
 
 ### Screenshot
 
+- Mobile:
+![mobile](screenshots/mobile.jpg)
+
+- Laptop:
+![laptop](screenshots/Laptop.jpg)
+
+- Active states:
+![active-states](screenshots/active-states.jpg)
 
 ### Links
 
