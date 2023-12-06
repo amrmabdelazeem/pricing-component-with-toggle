@@ -41,7 +41,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentors](https://your-solution-url.com)
+- Solution URL: [Frontend Mentors](https://www.frontendmentor.io/solutions/responsive-pricing-component-with-toggle-jquery-Qyv3kSbwds)
 - Live Site URL: [Github](https://amrmabdelazeem.github.io/pricing-component-with-toggle/)
 
 ## My process
