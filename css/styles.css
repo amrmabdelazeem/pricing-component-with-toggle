@@ -190,4 +190,7 @@ h1{
         height: 370px;
         padding-top: 2.5rem;
     }
+    .node-start{
+        justify-content: start;
+    }
 }
