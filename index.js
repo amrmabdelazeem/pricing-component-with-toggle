@@ -1,3 +1,6 @@
+
+$(".annualy-price").hide();
+
 const toggleButton = $(".duration-button");
 toggleButton.on("click", ()=>{
     toggleButton.toggleClass("node-start");
