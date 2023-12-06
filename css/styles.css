@@ -149,5 +149,22 @@ h1{
     padding: .6rem 0;
     font-size: .6rem;
     letter-spacing: 1px;
-    background-color:#fff; 
+    background-color:var(--veryLightGrayishBlue);
+}
+.plan-prof button:hover{
+    cursor: pointer;
+    background: linear-gradient(to right,hsl(236, 72%, 79%),hsl(237, 63%, 64%));
+    border: 1px solid var(--veryLightGrayishBlue);
+    color: var(--veryLightGrayishBlue);
+}
+
+.plan button:hover{
+    cursor: pointer;
+    background: var(--veryLightGrayishBlue);
+    border: 1px solid var(--grayishBlue);
+    color: hsl(237, 63%, 64%);
+}
+.duration-button:hover{
+    cursor: pointer;
+    opacity: .5;
 }
