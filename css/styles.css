@@ -180,6 +180,7 @@ h1{
         background-image: url("../images/bg-top.svg"), url("../images/bg-bottom.svg");
         background-size: 25%, 25%;
         background-position: top right, bottom left;
+        height:100dvh;
     }
     main{
         display: flex;
