@@ -171,7 +171,9 @@ h1{
     cursor: pointer;
     opacity: .5;
 }
-
+.node-start{
+    justify-content: start;
+}
 @media (min-width:1440px){
     main{
         display: flex;
@@ -190,7 +192,5 @@ h1{
         height: 370px;
         padding-top: 2.5rem;
     }
-    .node-start{
-        justify-content: start;
-    }
+
 }
