@@ -26,6 +26,9 @@ header{
     margin-top: 1.5rem;
     margin-bottom: 3rem;
 }
+main{
+    margin-bottom: 1.5rem;
+}
 .button-area{
     display: flex;
     justify-content: space-between;
@@ -167,4 +170,24 @@ h1{
 .duration-button:hover{
     cursor: pointer;
     opacity: .5;
+}
+
+@media (min-width:1440px){
+    main{
+        display: flex;
+        align-items: center;
+        margin-top: 1rem;
+    }
+    h1{
+        margin-bottom: 2.5rem;
+    }
+    .plan{
+        height: 335px;
+        padding-left: 1.5rem;
+        padding-right: 1.5rem;
+    }
+    .plan-prof{
+        height: 370px;
+        padding-top: 2.5rem;
+    }
 }
